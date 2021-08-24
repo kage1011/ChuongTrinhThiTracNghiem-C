@@ -1,0 +1,26 @@
+Gioi thieu bai thi
+bai thi trac nghiem theo quy dinh ve noi dung, hinh thuc va thoi gian thi  cua nghi dinh 
+so 161/2018/ND-CP cua chinh phu . 
+Luu y: day la bai thi khong thu phi.
+
+Cach  thi:
+
+Buoc 1: Dang Nhap
+
+Cuoc 2: Chon Goi cau hoi
+
+Buoc 3: Thuc hien bai thi theo huong dan cua phan mem
+
+Quy Cach Bai Thi:
+* Thoi gian thi :5 phut.
+
+* So cau hoi: 10 den 20 cau.
+
+* moi cau tra loi dung tuong duong :
+  + 10 diem doi voi goi 10 cau hoi
+  + 5 diem doi voi goi 20 cau hoi
+* so diem toi thieu de qua bai thi la: 50/100
+
+* Moi cau hoi chi co 1 dap an dung
+
+*** 
